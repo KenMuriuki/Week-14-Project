@@ -1,5 +1,4 @@
 # Week-14-Project
-# Kira-Plastinina-Customer-Insights
 
 This repository contains 4 different files on unsupervised learning with R
 
